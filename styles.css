@@ -31,10 +31,6 @@ a {
     color: #0b5cad;
 }
 
-/* link changes color when you hover over it */
-a:hover {
-    color: darkorange;
-}
 
 img {
     max-width: 100%;
