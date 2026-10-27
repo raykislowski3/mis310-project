@@ -45,7 +45,7 @@ li {
     margin-bottom: 8px;
 }
 
-nav a{
+nav {
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
