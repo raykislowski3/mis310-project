@@ -45,14 +45,14 @@ li {
     margin-bottom: 8px;
 }
 
-.navigation a {
+.navigation {
     display: flex;
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
     border: 2px solid navy;
     background-color: #f0f0f0;
-    padding: 8px 16px;
+    padding: 15px;
 }
 
 .images {
