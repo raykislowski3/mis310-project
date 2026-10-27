@@ -45,20 +45,16 @@ li {
     margin-bottom: 8px;
 }
 
-.navigation {
+.navigation a {
     display: flex;
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
     border: 2px solid navy;
     background-color: #f0f0f0;
-    padding: 15px;
-}
-.navigation a {
-     border: 1px solid navy;
     padding: 8px 16px;
-
 }
+
 .images {
     display: flex;
     gap: 20px;
