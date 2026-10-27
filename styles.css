@@ -54,7 +54,11 @@ li {
     background-color: #f0f0f0;
     padding: 15px;
 }
+.navigation a {
+     border: 1px solid navy;
+    padding: 8px 16px;
 
+}
 .images {
     display: flex;
     gap: 20px;
