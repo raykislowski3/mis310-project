@@ -49,19 +49,17 @@ li {
     margin-bottom: 8px;
 }
 
-nav {
+nav a{
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
     justify-content: center;
+    background-color: white;
+    border: 1px solid gray;
+    padding: 15px;
 }
 
-nav a {
-    background-color: white;
-    border: 1px solid black;
-    border-radius: 8px;
-    padding: 8px 16px;
-}
+
 .images {
     display: flex;
     gap: 20px;
