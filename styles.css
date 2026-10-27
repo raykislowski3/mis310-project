@@ -54,11 +54,7 @@ nav a{
     gap: 20px;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: white;
-    border: 1px solid gray;
-    padding: 15px;
 }
-
 
 .images {
     display: flex;
