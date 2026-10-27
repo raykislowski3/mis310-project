@@ -45,11 +45,13 @@ li {
     margin-bottom: 8px;
 }
 
-nav {
+.navigation {
     display: flex;
+    justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
-    justify-content: center;
+    border: 2px solid navy;
+    padding: 15px;
 }
 
 .images {
