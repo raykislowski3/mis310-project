@@ -55,3 +55,9 @@ nav {
     flex-wrap: wrap;
     justify-content: center;
 }
+
+.images {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
