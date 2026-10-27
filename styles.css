@@ -40,7 +40,9 @@ img {
 }
 
 
-
+li {
+    margin-bottom: 8px;
+}
 
 
 .navigation {
