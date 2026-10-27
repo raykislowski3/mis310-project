@@ -51,6 +51,7 @@ li {
     gap: 20px;
     flex-wrap: wrap;
     border: 2px solid navy;
+    background-color: #f0f0f0;
     padding: 15px;
 }
 
