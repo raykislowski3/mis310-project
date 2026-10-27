@@ -56,6 +56,12 @@ nav {
     justify-content: center;
 }
 
+nav a {
+    background-color: white;
+    border: 1px solid navy;
+    border-radius: 8px;
+    padding: 8px 16px;
+}
 .images {
     display: flex;
     gap: 20px;
