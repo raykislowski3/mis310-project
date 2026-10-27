@@ -48,3 +48,10 @@ ul {
 li {
     margin-bottom: 8px;
 }
+
+nav {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
