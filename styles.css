@@ -88,3 +88,18 @@ iframe {
         grid-template-columns: 1fr;
     }
 }
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 15px;
+    text-align: left;
+}
+
+th {
+    background-color: #f0f0f0;
+}
