@@ -103,3 +103,18 @@ th, td {
 th {
     background-color: #f0f0f0;
 }
+
+label, input, select, textarea {
+    display: block;
+    margin-bottom: 12px;
+}
+
+fieldset input[type="radio"],
+fieldset input[type="checkbox"],
+fieldset label {
+    display: inline;
+}
+
+fieldset {
+    margin-bottom: 15px;
+}
