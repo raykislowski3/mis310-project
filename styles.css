@@ -56,6 +56,19 @@ li {
     padding: 15px;
 }
 
+.navigation a {
+    text-decoration: none;
+    color: white;
+    background-color: navy;
+    padding: 10px 20px;
+    border-radius: 6px;
+}
+
+.navigation a:hover,
+.navigation a:focus {
+    background-color: #0b5cad;
+}
+
 .images {
     display: flex;
     gap: 20px;
