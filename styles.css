@@ -48,7 +48,7 @@ li {
 
 .navigation {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     gap: 20px;
     flex-wrap: wrap;
     border: 2px solid navy;
